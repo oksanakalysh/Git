@@ -1,0 +1,10 @@
+Title 
+1. Purpose
+2. Scope
+3. Assumptions
+4. Variant Uses
+5. Definition of Priority Levels
+6. Checklist Coverage Definition
+7. Criteria for Pass/Fail Statuses
+8. Checklist Body
+9. Test Execution Status By Cycle
