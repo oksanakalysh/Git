@@ -1,0 +1,64 @@
+
+Git
+HW_1
+
+JSON
+
+ 1. Create an external repository named JSON.
+ 2. Clone the JSON repository to the local machine.
+ 3. Inside the local JSON, create a “new.json” file.
+ 4. Add the file under git.
+ 5. Commit the file.
+ 6. Push the file to an external GitHub repository.
+ 7. Edit the content of the “new.json” file - write information about yourself (name, age, your pets, salary). Everything is written in JSON format.
+ 8. Push changes to an external repository.
+ 9. Create a preferences.json file.
+ 10. In the preferences.json file, add information about your preferences (favorite movie, favorite series, favorite food, favorite season, country you would like to visit) in JSON format.
+ 11. Create a file sklls.json add information about the skills that will be studied on the course in JSON format.
+ 12. Send 2 files to an external repository.
+ 13. On the web interface, create a bug_report.json file.
+ 14. Make Commit changes (save) changes on the web interface.
+ 15. Modify the bug_report.json file on the web interface, add a bug report in JSON format.
+ 16. Make Commit changes (save) changes on the web interface.
+ 17. Synchronize external and local JSON repository.
+
+XML
+
+ 18. Create an external repository called XML.
+ 19. Clone the XML repository to the local machine.
+ 20. Inside the local XML, create a “new.xml” file.
+ 21. Add the file under git.
+ 22. Commit the file.
+ 23. Push the file to an external GitHub repository.
+ 24. Edit the content of the “new.xml” file - write information about yourself (name, age, your pets, salary). Everything is written in XML format.
+ 25. Push changes to an external repository.
+ 26. Create a preferences.xml file
+ 27. In the preferences.xml file, add information about your preferences (favorite movie, favorite series, favorite food, favorite season, country you would like to visit) in XML format.
+ 28. Create a file sklls.xml add information about the skills that will be studied on the course in XML format.
+ 29. Make a commit in one line.
+ 30. Send 2 files an external repository.
+ 31. Create a bug_report.xml file on the web interface.
+ 32. Make Commit changes (save) changes on the web interface.
+ 33. Modify the bug_report.xml file on the web interface, add a bug report in XML format.
+ 34. Make Commit changes (save) changes on the web interface.
+ 35. Synchronize external and local XML repository.
+
+TXT
+ 36. Create an external repository called TXT.
+ 37. Clone the TXT repository to the local computer.
+ 38. Inside the local TXT, create the “new.txt” file.
+ 39. Add the file under git.
+ 40 Commit the file.
+ 41. Submit the file to an external GitHub repository.
+ 42. Edit the contents of the “new.txt” file - write information about yourself (name, age, your pets, salary). Everything should be written in TXT format.
+ 43. Push changes to an external repository.
+ 44. Create a preferences.txt file.
+ 45. In the “preferences.txt” file, add information about your preferences (favorite movie, favorite series, favorite food, favorite season, country you would like to visit) in TXT format.
+ 46. Create a file sklls.txt add information about the skills that will be studied on the course in TXT format.
+ 47. Make a commit in one line.
+ 48. Send 2 files to an external repository.
+ 49. Create a bug_report.txt file on the web interface.
+ 50. Make Commit changes (save) changes on the web interface.
+ 51. Modify the bug_report.txt file on the web interface, add a bug report in TXT format.
+ 52. Make Commit changes (save) changes on the web interface.
+ 53. Synchronize external and local TXT repository.
