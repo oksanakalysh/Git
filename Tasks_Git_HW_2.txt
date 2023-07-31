@@ -1,0 +1,17 @@
+1. On the local repository, make branches for:
+- Postman
+- Jmeter
+- Checklists
+- Bug reports
+- SQL
+- Charles
+- Mobile testing.
+2. Push all branches to an external repository.
+3. Make a text document with the bug report structure in the Bug Reports branch.
+4. Push the bug report structure to the external repository.
+5. Merge the Bug Reports branch into the Main.
+6. Push main to the external repository.
+7. Outline the checklist structure in the CheckLists branch.
+8. Push the structure to an external repository.
+9. On the external repository, make a Pull Request of the CheckLists branch in the main.
+10. Synchronize External and Local branches Main.
